@@ -1,0 +1,15 @@
+{
+  "name": "canbeincreasing",
+  "version": "1.0.0",
+  "description": "npm init -y npm install typescript --save-dev npx tsc --init npx tsc file_name.ts node file_name.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.2"
+  }
+}
